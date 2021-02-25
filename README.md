@@ -1,2 +1,1 @@
-# 2019-OS-hw1-process-communication
-2019OShw1
+# 2019_os_hw1
